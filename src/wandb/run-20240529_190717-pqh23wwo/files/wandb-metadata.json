@@ -1,0 +1,22 @@
+{
+    "os": "Linux-4.15.0-1009-aws-x86_64-with-glibc2.29",
+    "python": "3.8.5",
+    "heartbeatAt": "2024-05-29T19:07:20.517341",
+    "startedAt": "2024-05-29T19:07:17.138827",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "codePath": "src/A3C_Continuous_fetch.py",
+    "program": "/home/user/catkin_ws/src/fetch-robot/src/A3C_Continuous_fetch.py",
+    "git": {
+        "remote": "git@github.com:mobinajamali/FetchRobot.git",
+        "commit": "31dfad09c8eb5a43f2ba08b22bea25696c6588ac"
+    },
+    "email": null,
+    "root": "/home/user/catkin_ws/src/fetch-robot",
+    "host": "1_xterm",
+    "username": "user",
+    "executable": "/usr/bin/python"
+}
