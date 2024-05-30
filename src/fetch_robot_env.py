@@ -132,3 +132,4 @@ class FetchEnv(robot_gazebo_env_goal.RobotGazeboEnv):
 
     def _is_done(self, observations):
         raise NotImplementedError()
+        
