@@ -197,3 +197,4 @@ class FetchPushEnv(FetchEnv, utils.EzPickle):
                     print("Reward for getting closer")
                     reward = 1.0 / distance
         return reward
+        
