@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="fetch-robot" name="fetch_train" type="training.py" output="screen"/>
+</launch>
