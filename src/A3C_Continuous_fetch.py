@@ -262,3 +262,4 @@ if __name__ == "__main__":
     env_name = 'FetchPush-v0'
     agent = Agent(env_name)
     agent.train()
+    
